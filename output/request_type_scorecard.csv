@@ -1,0 +1,53 @@
+request_type,department,closed_requests,median_days,p90_days,pct_within_7_days,total_open_days
+"DSD - Request Code Officer","Development Services",22267,4.0,49.3,63.5,446286.0
+"APD - Vehicle Abatement Report","Police (non-emergency)",7395,19.8,58.8,19.7,215524.0
+"ARR - Bulk","Resource Recovery (trash/recycling)",13128,9.1,28.7,39.0,171538.0
+"Animal Protection - Loose Dog","Animal Services",8604,1.6,30.8,72.9,98936.0
+"APH - Graffiti Abatement - Public Property","Public Health",1112,6.1,350.8,53.7,91457.0
+"ARR - Garbage","Resource Recovery (trash/recycling)",24984,1.7,6.7,91.3,83161.0
+"ARR - Brush","Resource Recovery (trash/recycling)",4436,8.9,32.9,39.2,74742.0
+"ARR - Compost","Resource Recovery (trash/recycling)",13781,3.5,10.2,79.3,68427.0
+"Animal Protection - Injured/Sick Animal","Animal Services",7021,0.1,28.7,71.5,58470.0
+"Park Maintenance - Grounds","Parks & Recreation",4636,3.1,33.8,67.4,55297.0
+"APH - Environmental Health Services - City","Public Health",1004,9.2,168.0,46.0,54165.0
+"ARR - Recycling","Resource Recovery (trash/recycling)",12321,2.8,6.1,93.6,52448.0
+"TPW - Road Markings/Striping - Maintenance","Transportation & Public Works",1017,53.7,78.0,5.8,49910.0
+"Pet Resource Center - Assistance Request","Animal Services",3440,6.9,27.0,50.6,46196.0
+"TPW - Traffic Sign New","Transportation & Public Works",1262,33.3,72.9,17.8,45718.0
+"ARR - Household Hazardous Waste","Resource Recovery (trash/recycling)",1133,38.4,64.0,14.7,43513.0
+"AE Street Light Issue - Address","Austin Energy",5152,1.1,4.9,92.6,42340.0
+"ARR - Storm Debris Collection","Resource Recovery (trash/recycling)",2449,12.8,20.8,11.0,32666.0
+"Animal Protection - Assistance Request","Animal Services",3441,1.8,20.3,75.2,25540.0
+"Animal Protection - Animal Proper Care","Animal Services",2223,2.1,34.1,61.4,24489.0
+"Animal Protection - Animal Bite","Animal Services",2295,4.7,27.0,56.2,23920.0
+"TPW - Speed Management","Transportation & Public Works",1147,8.9,55.9,43.5,22844.0
+"APD - Non Emergency Collision","Police (non-emergency)",3889,5.6,10.1,61.9,21506.0
+"Animal Services - Contact Request","Animal Services",2387,3.1,22.1,65.6,19947.0
+"TPW - Traffic Signal - Maintenance","Transportation & Public Works",8458,0.0,4.2,92.3,19618.0
+"TPW - Tree Issue Right of Way","Transportation & Public Works",3534,1.1,14.7,81.2,17934.0
+"TPW - Obstruction in Right of Way","Transportation & Public Works",2425,0.8,10.0,87.8,12946.0
+"Animal Protection - Wildlife Exposure","Animal Services",1260,0.2,30.0,73.9,12331.0
+"AW - Water Related Issues","Austin Water",1377,0.7,7.6,89.3,11489.0
+"TPW - Traffic Sign Maintenance","Transportation & Public Works",2327,1.9,7.8,88.9,8217.0
+"TPW - Pavement Failure","Transportation & Public Works",1201,0.9,9.8,87.8,7800.0
+"TPW - Parking Sign Maintenance","Transportation & Public Works",2140,2.0,7.1,89.7,7238.0
+"TPW - Parking Machine Issue","Transportation & Public Works",1314,3.1,7.9,88.8,5062.0
+"AW - Water Conservation Violation","Austin Water",1521,1.0,6.1,90.7,5054.0
+"ARR - General","Resource Recovery (trash/recycling)",5668,0.1,2.0,99.9,4958.0
+"ARR - Street Sweeping","Resource Recovery (trash/recycling)",1298,2.4,7.2,89.1,4726.0
+"TPW - Debris in Street","Transportation & Public Works",3011,0.5,1.7,97.8,3673.0
+"WPD - Channels/Creek/Drainage Issues","Watershed Protection",1949,1.0,3.2,97.8,3272.0
+"TPW - Parking Violation Enforcement","Transportation & Public Works",19048,0.1,0.5,100.0,3203.0
+"DSD - Alarm Administration","Development Services",1974,1.0,3.1,98.6,3141.0
+"ARR - Dead Animal Collection","Resource Recovery (trash/recycling)",6066,0.6,0.9,100.0,3110.0
+"TPW - Sidewalk Repair","Transportation & Public Works",1448,0.8,3.6,95.4,3016.0
+"TPW - Pothole Repair","Transportation & Public Works",2930,0.6,1.1,98.7,2502.0
+"TPW - Shared Micromobility","Transportation & Public Works",1579,0.8,3.1,97.4,2248.0
+"TPW - Construction Concerns in Right of Way","Transportation & Public Works",2294,0.6,2.7,99.9,2103.0
+"DSD - Follow-Up","Development Services",3742,0.1,1.1,100.0,1847.0
+"DSD - Tree and Environmental Complaint","Development Services",1383,0.6,2.7,99.1,1390.0
+"DSD - Outdoor Commercial Venue Music Complaint","Development Services",2201,0.5,1.0,100.0,1125.0
+"311 CC - Other","311 Call Center",7764,0.0,0.4,100.0,986.0
+"APD - Non Emergency Noise/Alarm","Police (non-emergency)",20171,0.0,0.1,100.0,863.0
+"TPW - Dig Tess Request","Transportation & Public Works",1977,0.0,0.1,99.4,306.0
+"TPW - Lane/Road Closure Notification","Transportation & Public Works",2235,0.0,0.0,100.0,0.0

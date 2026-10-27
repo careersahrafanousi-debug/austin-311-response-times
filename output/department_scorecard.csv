@@ -1,0 +1,13 @@
+department,closed_requests,pct_of_volume,median_days,p90_days,pct_within_7_days
+"Resource Recovery (trash/recycling)",86996,30.1,2.7,16.9,76.1
+"Transportation & Public Works",68941,23.8,0.2,9.0,88.5
+"Animal Services",34502,11.9,2.0,29.0,66.8
+"Development Services",33119,11.4,1.9,36.8,73.5
+"Police (non-emergency)",32223,11.1,0.1,22.9,76.6
+"311 Call Center",7867,2.7,0.0,0.5,99.9
+"Parks & Recreation",7041,2.4,4.7,37.0,59.6
+"Austin Energy",6036,2.1,1.2,5.7,91.5
+"Watershed Protection",5258,1.8,1.0,3.9,96.8
+"Austin Water",3001,1.0,0.9,7.1,89.5
+"Public Health",2238,0.8,7.0,258.5,49.9
+Fire,1223,0.4,0.9,2.9,98.5
